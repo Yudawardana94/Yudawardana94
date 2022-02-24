@@ -1,4 +1,4 @@
-### Hi 👋 welcome to my github page
+### Hi 👋 
 
 <!--
 **Yudawardana94/Yudawardana94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
